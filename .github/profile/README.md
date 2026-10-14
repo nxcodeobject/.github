@@ -37,6 +37,15 @@ termasuk [NxCode](https://nxcodeobject.github.io/coding/), [NXC SDK](https://nxc
 
 ---
 
+## Track Record
+
+Since 2015 (tatiye.net), we have built systems in cooperation with government
+institutions — most recently (2024) the **Kementerian Kominfo internship program**
+in Kab. Pohuwato, where our engineering team (Tim Programer tatiye.net) helped
+build the regional [one-data portal](https://tagpohuwato.id/6-mahasiswa-program-magang-kementerian-kominfo-tiba-di-kabupaten-pohuwato).
+In 2026, budget-efficiency policies ended that cooperation — our answer was to
+release the entire accumulated work as MIT-licensed open source.
+
 ## Principles
 
 1. **Zero-dependency berarti zero-dependency** — binary tunggal, tanpa runtime tambahan
