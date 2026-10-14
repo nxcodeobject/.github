@@ -4,7 +4,7 @@
 > dari AI coding agent, desktop SDK, IDE, database, hingga infrastruktur web —
 > semuanya jalan di hardware biasa, tanpa vendor lock-in.
 
-Part of: **NXDOM ecosystem** · Company: [PT Tatiye Digital Solusindo](https://iyanrsaleh.github.io/tatiye/)
+Part of: **NXDOM ecosystem** · Company: [PT Tatiye Digital Solusindo](https://iyanrsaleh.github.io/tatiye/) · Kegiatan: [Facebook — Tatiye.net](https://www.facebook.com/TatiyedotNet)
 
 ---
 
